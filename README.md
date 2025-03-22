@@ -1,16 +1,39 @@
-## Hi there 👋
+## 👋 Hey, I'm Mikolaj Mikuliszyn
 
-<!--
-**miki-przygoda/miki-przygoda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 1st Year BSc Computer Science & Artificial Intelligence at University of Greenwich
 
-Here are some ideas to get you started:
+🧠 Exploring emotional cognition in AI and quantum-enhanced learning systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Current focus: simulating malicious emotional AI (Malicious Mind), AI-personality cloning (Project Julia), and building a reputation through real, measurable projects
+
+---
+
+### 🔭 Current Projects
+
+Mostly private stuff - don't have many public projects except some school stuff
+
+---
+
+### ⚙️ Languages & Tools
+
+Python · SQL · Django · Scheme · Docker · Xcode · Git · Discord.py · Markdown
+
+---
+
+### 🧠 Current Interests
+
+- Emotion simulation in artificial minds  
+- Quantum machine learning & neural architectures  
+- AI safety, sandboxing, and ethical constraints  
+- Philosophical cognition models  
+
+---
+
+### 📘 Writing & Research
+
+- [Malicious Mind – Exploring Emotionally Malicious AI & Quantum Cognition](#) *(link coming soon)*  
+- Upcoming podcast-style discussion series on AI ethics, power systems, and human cognition
+
+---
+
+📍 Based in London | Always open to collaboration
