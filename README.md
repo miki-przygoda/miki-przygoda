@@ -54,7 +54,7 @@ A clean, responsive personal site built from scratch using HTML, CSS, and JavaSc
 It includes project showcases, podcast episodes, and a longform “A Dive Into My Mind” section for deep technical and philosophical writing.  
 🎨 Dark theme, neon highlights, and smooth animations built for clarity and immersion.
 
-🔗 [Website Link Coming Soon]
+🔗 [My Personal Site](miki-przygoda/miki-przygoda.github.io)
 
 ---
 
