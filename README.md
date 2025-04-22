@@ -11,7 +11,7 @@
 
 ---
 
-## 🔭 Current Projects
+## 🔭 Projects
 
 ### 🎓 Coursework Projects
 
@@ -45,6 +45,11 @@ Built with NumPy physics logic and Pygame rendering.
 A modular Discord bot that uses the OpenAI API to simulate personalities, handle custom prompts, and evolve based on user interaction.  
 Supports dynamic command handling and remote-controlled restart management.  
 *(Python, Disnake, OpenAI API, modular architecture)*
+
+###### 📚 ReadWeaver *(WIP – Temp.Private)*  
+A modern, scalable web application for reading, exploring, and interacting with books and technical documentation with an AI Assistant.
+Features dynamic book uploading via Django Admin, API-driven chapter navigation, sticky sidebars, interactive chat per book section, and fully responsive frontend styling with Next.js and TailwindCSS.  
+*(Next.js, TailwindCSS, Django, PostgreSQL, API integration, rich content rendering)*
 
 ---
 
