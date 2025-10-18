@@ -1,55 +1,6 @@
 ## 👋 Hey, I'm Mikolaj Mikuliszyn
 
-🎓 1st Year BSc Computer Science & Artificial Intelligence at the University of Greenwich  
-🧠 Exploring emotional cognition in AI, quantum-enhanced learning systems, and the edge of artificial general intelligence.
-
-📚 Currently focused on:  
-- Simulating malicious emotional AI (Malicious Mind)  
-- AI personality cloning and memory simulation (Project Julia)  
-- Turning technical projects into polished public showcases  
-- Building a high-tier developer portfolio
-
----
-
-## 🔭 Projects
-
-### 🎓 Coursework Projects
-
-###### 📦 Prime Finder in Binary Strings – Python (ADS)
-Efficient extraction of prime numbers from binary substrings using optimized substring caching, multiprocessing, and rigorous unit testing.  
-*(Python, algorithm design, unittest, performance tuning)*
-
-###### 👨‍👩‍👧 Family Tree Management System – Python (CW1)  
-A terminal-based application for modeling and querying family relationships using Python classes and dataclasses.  
-Supports age filtering, birthday lookups, and hierarchical ancestry traversal.  
-*(Object-oriented design, CLI, dataclass modeling)*
-
-###### 🧬 Family Tree Analysis – Scheme (CW2)  
-Recursive Racket-based family analyzer with lifespan logic, tree mutation, and structural reasoning.  
-*(Functional programming – Scheme/Racket)*
-
----
-
-### 🛠️ Personal Projects
-
-###### 🚗 Randomized Car Generator  
-2D simulation using Pygame for randomized vehicle generation, life-cycle control, and behavior rendering in constrained environments.  
-*(Pygame, simulation architecture, modular event logic)*
-
-###### 🌌 Celestial Body Simulator  
-Gravitational physics engine for simulating orbital dynamics between celestial bodies in real-time.  
-Built with NumPy physics logic and Pygame rendering.  
-*(Physics modeling, numerical methods, real-time visualisation)*
-
-###### 🤖 Project Julia *(WIP – Public)*  
-A modular Discord bot that uses the OpenAI API to simulate personalities, handle custom prompts, and evolve based on user interaction.  
-Supports dynamic command handling and remote-controlled restart management.  
-*(Python, Disnake, OpenAI API, modular architecture)*
-
-###### 📚 ReadWeaver *(WIP – Temp.Private)*  
-A modern, scalable web application for reading, exploring, and interacting with books and technical documentation with an AI Assistant.
-Features dynamic book uploading via Django Admin, API-driven chapter navigation, sticky sidebars, interactive chat per book section, and fully responsive frontend styling with Next.js and TailwindCSS.  
-*(Next.js, TailwindCSS, Django, PostgreSQL, API integration, rich content rendering)*
+🎓 2nd Year BSc Computer Science & Artificial Intelligence at the University of Greenwich  
 
 ---
 
@@ -65,7 +16,7 @@ It includes project showcases, podcast episodes, and a longform “A Dive Into M
 
 ## 🧪 Technologies & Tools
 
-Python · SQL · Django · Scheme/Racket · Docker · Git · Xcode · Disnake · HTML/CSS · Markdown
+Python · SQL · Django · Scheme/Racket · Docker · Git · Xcode · HTML/CSS · Markdown
 
 ---
 
@@ -81,10 +32,8 @@ Python · SQL · Django · Scheme/Racket · Docker · Git · Xcode · Disnake ·
 
 ## 📘 Writing & Research
 
-- [Malicious Mind – Exploring Emotionally Malicious AI & Quantum Cognition](#) *(Publishing soon — full paper in draft)*  
-- **Podcast Series**: *"A Dive Into My Mind"* — longform conversations on AI, ethics, cognition, and emerging technologies.  
-  *(Published as text-based episodes with future audio support planned)*
+- [Malicious Mind – Exploring Emotionally Malicious AI](#) *(Publishing soon — full paper in draft)*  
 
 ---
 
-📍 Based in London | Always open to collaboration or creative chaos  
+📍 Based in London | Always open to collaboration.
