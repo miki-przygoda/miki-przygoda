@@ -2,7 +2,7 @@
 
 2nd Year BSc Computer Science & Artificial Intelligence at the University of Greenwich  
 
-🔗 [My Personal Site](https://mikolaj-mikuliszyn.dev/)
+🔗 [My Personal Site](https://miki-przygoda.github.io/)
 
 ---
 
