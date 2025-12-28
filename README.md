@@ -1,7 +1,7 @@
 # 💫 About Me:
 2nd Year BSc Computer Science & Artificial Intelligence at the University of Greenwich
 
-[My Personal Site](https://miki-przygoda.github.io/)
+[My Site](https://mikolaj-mikuliszyn.dev)
 
 #### Current Interests:
 Quantum computing, neural networks, AGI, EAs and RL.
@@ -29,3 +29,5 @@ Quantum computing, neural networks, AGI, EAs and RL.
 
 ---
 [![](https://visitcount.itsvg.in/api?id=miki-przygoda&icon=2&color=8)](https://visitcount.itsvg.in)
+
+##### [Made using](https://gprm.itsvg.in/)
