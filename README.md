@@ -12,7 +12,6 @@ I am passionate about the intersection of AGI, Evolutionary Algorithms, and Rein
 - **Current Focus:** Improving my research and working on larger scale apps.
 
 ---
-
 ### 🛠 Tech Stack
 
 #### 💻 Languages & Core
