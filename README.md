@@ -1,17 +1,28 @@
 # 💫 About Me
 **2nd Year BSc Computer Science & Artificial Intelligence** at the University of Greenwich.  
-I am passionate about the intersection of AGI, Evolutionary Algorithms, and Reinforcement Learning.
+Passionate about the intersection of AGI, Evolutionary Algorithms, and Reinforcement Learning.
 
 [🌐 Personal Website](https://mikolaj-mikuliszyn.dev) | [📧 Email Me](mailto:mikolaj.mikuliszyn@gmail.com)
 
 ---
 
-### 🧠 Research & Interests
-- **AI/ML:** Neural Networks, AGI, Evolutionary Algorithms, and RL.
-- **Quantum:** Exploring Quantum Computing fundamentals.
-- **Current Focus:** Improving my research and working on larger scale apps.
+### 📄 Research & Publications
+**[Evaluating Assisted RL-EA for Constraint-Driven Floor-Plan Generation](https://www.mikolaj-mikuliszyn.dev/papers/COMP1827-Report/Mikuliszyn_FloorPlan_AI_Research.pdf)**  *Technical Report | University of Greenwich*  [📊 View Repository](https://github.com/miki-przygoda/genplan-template)
+
+- Developed a hybrid optimization pipeline combining **Evolutionary Algorithms (EA)** with **Multi-Armed Bandit (MAB)** models to generate floor-plans from natural language descriptions.
+- Implemented custom mutation and repair operators to enforce geometric, spatial, and functional constraints.
+- Conducted a large-scale study of 500 paired runs, finding that RL-guided seeding improved median fitness by **6.96%** and outperformed pure EA in **83.8%** of trials.
+- **Keywords:** Reinforcement Learning, Evolutionary Algorithms, Constraint Satisfaction, Spatial Reasoning, LaTeX.
 
 ---
+
+### 🧠 Research Interests
+- **AI/ML:** Neural Networks, AGI, Evolutionary Algorithms, and RL.
+- **Quantum:** Exploring Quantum Computing fundamentals and Qiskit.
+- **Current Focus:** [Insert your current deep-dive, e.g., Transformer architectures or LLM Agents]
+
+---
+
 ### 🛠 Tech Stack
 
 #### 💻 Languages & Core
@@ -27,6 +38,11 @@ I am passionate about the intersection of AGI, Evolutionary Algorithms, and Rein
 
 ### 📊 GitHub Stats
 
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=miki-przygoda&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miki-przygoda&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="48%" />
+</p>
+
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=miki-przygoda&theme=transparent&hide_border=false" width="100%" />
 </p>
@@ -36,13 +52,11 @@ I am passionate about the intersection of AGI, Evolutionary Algorithms, and Rein
 ### 📫 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mikolaj-mikuliszyn) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/MikiPrzygoda) [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/miki_przygoda)
 
----
-
 <details>
 <summary><b>Full Technical Inventory 📂</b></summary>
 <br />
 
-Python, Java, JavaScript, TypeScript, Swift, HTML5, CSS3, Ruby, SQL, React, Next.js, Django, FastAPI, Ruby on Rails, React Native, Expo, WordPress, PyTorch, TensorFlow, scikit-learn, NumPy, Pandas, Matplotlib, Anaconda, AWS, Firebase, Docker, Git, GitHub Actions, Jira, Notion, Vite, NPM, Cypress, Figma, Framer, PostgreSQL, MongoDB, MySQL, SQLite.
+**All Technologies:** Python, Java, JavaScript, TypeScript, Swift, HTML5, CSS3, Ruby, SQL, React, Next.js, Django, FastAPI, Ruby on Rails, React Native, Expo, WordPress, PyTorch, TensorFlow, scikit-learn, NumPy, Pandas, Matplotlib, Anaconda, AWS, Firebase, Docker, Git, GitHub Actions, Jira, Notion, Vite, NPM, Cypress, Figma, Framer, PostgreSQL, MongoDB, MySQL, SQLite.
 
 </details>
 
