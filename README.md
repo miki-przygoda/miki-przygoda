@@ -43,11 +43,7 @@ I am passionate about the intersection of AGI, Evolutionary Algorithms, and Rein
 <summary><b>Full Technical Inventory 📂</b></summary>
 <br />
 
-**Languages:** Python, Java, JavaScript, TypeScript, Swift, HTML5, CSS3, Ruby, SQL  
-**Frameworks:** React, Next.js, Django, FastAPI, Ruby on Rails, React Native, Expo, WordPress  
-**AI/ML:** PyTorch, TensorFlow, scikit-learn, NumPy, Pandas, Matplotlib, Anaconda  
-**Tools & Cloud:** AWS, Firebase, Docker, Git, GitHub Actions, Jira, Notion, Vite, NPM, Cypress, Figma, Framer  
-**Databases:** PostgreSQL, MongoDB, MySQL, SQLite
+Python, Java, JavaScript, TypeScript, Swift, HTML5, CSS3, Ruby, SQL, React, Next.js, Django, FastAPI, Ruby on Rails, React Native, Expo, WordPress, PyTorch, TensorFlow, scikit-learn, NumPy, Pandas, Matplotlib, Anaconda, AWS, Firebase, Docker, Git, GitHub Actions, Jira, Notion, Vite, NPM, Cypress, Figma, Framer, PostgreSQL, MongoDB, MySQL, SQLite.
 
 </details>
 
