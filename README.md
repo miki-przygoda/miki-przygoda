@@ -9,7 +9,7 @@ I am passionate about the intersection of AGI, Evolutionary Algorithms, and Rein
 ### 🧠 Research & Interests
 - **AI/ML:** Neural Networks, AGI, Evolutionary Algorithms, and RL.
 - **Quantum:** Exploring Quantum Computing fundamentals.
-- **Current Focus:** [Insert current project here]
+- **Current Focus:** Improving my research and working on larger scale apps.
 
 ---
 
