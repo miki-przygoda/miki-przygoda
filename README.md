@@ -38,10 +38,6 @@ Passionate about the intersection of AGI, Evolutionary Algorithms, and Reinforce
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=miki-przygoda&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miki-przygoda&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="48%" />
-</p>
 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=miki-przygoda&theme=transparent&hide_border=false" width="100%" />
